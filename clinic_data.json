@@ -1,0 +1,59 @@
+
+[
+    {
+        "token": 101,
+        "patient_id": "P001",
+        "name": "Ali Khan",
+        "age": 25,
+        "gender": "Male",
+        "problem": "Fever and headache",
+        "priority": "Normal",
+        "doctor": "Dr. Ahmed",
+        "status": "Waiting",
+        "examination": "",
+        "prescription": [],
+        "visits": []
+    },
+    {
+        "token": 102,
+        "patient_id": "P002",
+        "name": "Sara Malik",
+        "age": 32,
+        "gender": "Female",
+        "problem": "Difficulty breathing",
+        "priority": "Emergency",
+        "doctor": "Dr. Ahmed",
+        "status": "Waiting",
+        "examination": "",
+        "prescription": [],
+        "visits": []
+    },
+    {
+        "token": 103,
+        "patient_id": "P003",
+        "name": "Usman Ali",
+        "age": 40,
+        "gender": "Male",
+        "problem": "Stomach pain",
+        "priority": "Normal",
+        "doctor": "Dr. Ahmed",
+        "status": "Waiting",
+        "examination": "",
+        "prescription": [],
+        "visits": []
+    },
+    {
+        "token": 104,
+        "patient_id": "P004",
+        "name": "Ayesha Noor",
+        "age": 28,
+        "gender": "Female",
+        "problem": "Cough",
+        "priority": "Normal",
+        "doctor": "Dr. Usman",
+        "status": "Waiting",
+        "examination": "",
+        "prescription": [],
+        "visits": []
+    }
+]
